@@ -55,7 +55,7 @@ Week 1 contains my first Programming Fundamentals lab tasks, including basic C++
 ## 👨‍💻 Author
 
 **Hasnain Yaqoob**
-- [Portfolio Site](hasnainyaqoob.site)
+- [Portfolio Site](https://hasnainyaqoob.site)
 - [GitHub](https://github.com/hasnainyaqub)
 - [LinkedIn](https://www.linkedin.com/in/hasnainyaqoob/)
 
