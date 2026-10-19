@@ -1,0 +1,1 @@
+# ![C++ Task 1](cpp_task_1.png)
