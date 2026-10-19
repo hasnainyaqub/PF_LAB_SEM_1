@@ -1,4 +1,9 @@
+<div align="center">
+
 ![alt text](image.png)
+
+</div>
+
 # Programming Fundamentals Lab Tasks and Assignments
 
 This repository contains my **Programming Fundamentals (PF)** lab tasks and assignments as a BSCS student at Iqra University Islamabad.
